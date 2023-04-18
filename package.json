@@ -1,0 +1,26 @@
+{
+  "name": "@9am/tsconfig",
+  "version": "1.0.0",
+  "description": "@9am tsconfig.json",
+  "keywords": ["tsconfig"],
+  "files": [
+    "tsconfig.json"
+  ],
+  "main": "tsconfig.json",
+  "author": {
+    "name": "9am",
+    "email": "tech.9am@gmail.com",
+    "url": "https://9am.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/9am/tsconfig"
+  },
+  "homepage": "https://github.com/9am/tsconfig#readme",
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "license": "MIT"
+}
